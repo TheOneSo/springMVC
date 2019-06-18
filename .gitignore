@@ -33,3 +33,4 @@ mvnw
 mvnw.cmd
 spring-shell.log
 init.sql
+.DS_Store
